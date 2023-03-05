@@ -1,0 +1,9 @@
+V3 3
+FL "C:/Users/AndresOrtiz/Desktop/Ejemplos Tesis/E1-EjemProcess/main.vhd" 2023/03/04.19:16:09 P.20131013
+EN work/main 1677978972 \
+      FL "C:/Users/AndresOrtiz/Desktop/Ejemplos Tesis/E1-EjemProcess/main.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/main/Behavioral 1677978973 \
+      FL "C:/Users/AndresOrtiz/Desktop/Ejemplos Tesis/E1-EjemProcess/main.vhd" \
+      EN work/main 1677978972
