@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\Users\AndresOrtiz\Desktop\Ejemplos Tesis\E1-EjemProcess\main.ncd
-OUTFILE=C:\Users\AndresOrtiz\Desktop\Ejemplos Tesis\E1-EjemProcess\main.bit
-FAMILY=Spartan3A and Spartan3AN
-PART=xc3s50a-4tq144
-WORKINGDIR=C:\Users\AndresOrtiz\Desktop\Ejemplos Tesis\E1-EjemProcess
-LICENSE=WebPack
-USER_INFO=__0_0_0
